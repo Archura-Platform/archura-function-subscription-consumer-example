@@ -1,2 +1,2 @@
 # archura-function-subscription-consumer-example
-A PubSub Subscription Consumer Example
+Archura Platform Subscription Consumer Function example.
